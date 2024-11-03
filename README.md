@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @git-rohit-shaw
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in New and Emerging Technologies
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on Frontend Projects
